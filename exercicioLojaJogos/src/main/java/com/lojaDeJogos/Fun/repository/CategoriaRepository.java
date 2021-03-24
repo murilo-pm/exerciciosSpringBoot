@@ -1,4 +1,4 @@
-package com.lojaDeJogos.Fun.model.repository;
+package com.lojaDeJogos.Fun.repository;
 
 import java.util.List;
 import com.lojaDeJogos.Fun.model.Categoria;

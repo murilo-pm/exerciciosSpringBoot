@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.lojaDeJogos.Fun.model.Categoria;
 import com.lojaDeJogos.Fun.model.Produto;
-import com.lojaDeJogos.Fun.model.repository.ProdutoRepository;
+import com.lojaDeJogos.Fun.repository.ProdutoRepository;
 
 @RestController
 @RequestMapping("/produtos")

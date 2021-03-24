@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.lojaDeJogos.Fun.model.Categoria;
-import com.lojaDeJogos.Fun.model.repository.CategoriaRepository;
+import com.lojaDeJogos.Fun.repository.CategoriaRepository;
 
 @RestController
 @RequestMapping("/categoria")
