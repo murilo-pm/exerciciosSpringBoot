@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\muril\Desktop\back-up\Generation\codigos\spring\exerciciosSpringBoot\exercicioFarmacia"/>
+			<item value="C:\Users\muril\Desktop\back-up\Generation\codigos\spring\exerciciosSpringBoot\farmacia"/>
+			<item value="C:\Users\muril\Desktop\back-up\Generation\codigos\spring\Spring Initializr&apos;s archives\farmacia"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="exercicioFarmacia"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
